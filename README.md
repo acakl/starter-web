@@ -22,3 +22,6 @@ Sample procedure two
 ## Comparison tool 2
 
 ## Comparison tool 3
+
+## Copy Right Section
+Copyright 2020
