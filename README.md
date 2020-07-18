@@ -18,3 +18,5 @@ Sample procedure two
 
 
 ## Comparison tool 1
+
+## Comparison tool 2
