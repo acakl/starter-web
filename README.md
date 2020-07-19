@@ -10,7 +10,7 @@ Sample website with plenty of files for demos
 
 Sample deployment
 
-## Procedure
+## Procedure 3
 
 Sample procedure one
 
