@@ -29,3 +29,5 @@ Copyright 2020
 Simple plan for making changes
 
 Simple rebase example
+
+Simple rebase example 2
